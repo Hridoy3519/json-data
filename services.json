@@ -65,7 +65,7 @@
             "Flight-Time" : "25 Minute",
             "Range" : "10km"
         },
-        "rating" : 3,
+        "rating" : 3.6,
         "price" : 80,
         "user" : "1420",
         "img": "https://i.ibb.co/rfYZ8YB/product4-jpg.webp"
@@ -83,7 +83,7 @@
             "Flight-Time" : "25 Minute",
             "Range" : "8km"
         },
-        "rating" : 4,
+        "rating" : 4.1,
         "user" : "548",
         "price" : 96,
         "img": "https://i.ibb.co/9GvqwQd/product5-jpg.webp"
@@ -100,10 +100,95 @@
             "Flight-Time" : "30 Minute",
             "Range" : "8km"
         },
-        "rating" : 3,
+        "rating" : 3.2,
+        "user" : "1278",
+        "price" : 87,
+        "img": "https://i.ibb.co/94MC9LD/product6-jpg.webp"
+    },
+    {
+        "key": "B002RL8IYG",
+        "title": "DJI Mavic Mini",
+        "tagline" : "A lightweight flyer whose optical zoom is still pretty unique",
+        "description": "It's now been succeeded by the DJI Mini 2, but this ultra-compact drone will remain on sale – and that's good news for anyone who needs a slightly more affordable palm-sized drone with impressive video quality. Compared to its newer sibling, you miss out on raw photo capture, Ocusync 2.0 connectivity (for improved range) and some new motors, but the Mavic Mini is otherwise very competitive and still streaks ahead of any other drone in its weight category.",
+        "specifications" : {
+            "weight" : "905g",
+            "Controller" : "Yes",
+            "CameraResolution" : "12MP",
+            "Flight-Time" : "30 Minute",
+            "Range" : "8km"
+        },
+        "rating" : 3.5,
+        "user" : "1278",
+        "price" : 165,
+        "img": "https://i.ibb.co/5hcLRxG/product7-jpg.webp"
+    },
+    {
+        "key": "B002RL8IYH",
+        "title": "Ryze Tello",
+        "tagline" : "An all-weather drone that converts into a handheld camera",
+        "description": "It's now been succeeded by the DJI Mini 2, but this ultra-compact drone will remain on sale – and that's good news for anyone who needs a slightly more affordable palm-sized drone with impressive video quality. Compared to its newer sibling, you miss out on raw photo capture, Ocusync 2.0 connectivity (for improved range) and some new motors, but the Mavic Mini is otherwise very competitive and still streaks ahead of any other drone in its weight category.",
+        "specifications" : {
+            "weight" : "605g",
+            "Controller" : "Yes",
+            "CameraResolution" : "18MP",
+            "Flight-Time" : "30 Minute",
+            "Range" : "8km-12km"
+        },
+        "rating" : 3.8,
+        "user" : "1278",
+        "price" : 102,
+        "img": "https://i.ibb.co/MRhMDvK/product8-jpg.webp"
+    },
+    {
+        "key": "B002RL8IYI",
+        "title": "DJI Phantom 4 Pro V2.0",
+        "tagline" : "A fun introduction to first-person flying",
+        "description": "Ignore the culinary name: the PowerEgg X is a flyer, not a fryer. And in a market dominated by drones that don’t like water, PowerVision’s aerial orb is distinctive in its ability to fly in the rain and land on lakes (with the Wizard bundle). Image quality is affected by the plastic waterproof housing, but being able to operate in – and float upon – the wet stuff opens up a range of creative possibilities.",
+        "specifications" : {
+            "weight" : "305g",
+            "Controller" : "Yes",
+            "CameraResolution" : "18MP",
+            "Flight-Time" : "22 Minute",
+            "Range" : "10km"
+        },
+        "rating" : 3.8,
         "user" : "1278",
         "price" : 78,
-        "img": "https://i.ibb.co/94MC9LD/product6-jpg.webp"
+        "img": "https://i.ibb.co/6b6mhsX/product9-jpg.webp"
+    },
+    {
+        "key": "B002RL8IYJ",
+        "title": "PowerVision PowerEgg X",
+        "tagline" : "A fun introduction to first-person flying",
+        "description": "It's now been succeeded by the DJI Mini 2, but this ultra-compact drone will remain on sale – and that's good news for anyone who needs a slightly more affordable palm-sized drone with impressive video quality. Compared to its newer sibling, you miss out on raw photo capture, Ocusync 2.0 connectivity (for improved range) and some new motors, but the Mavic Mini is otherwise very competitive and still streaks ahead of any other drone in its weight category.",
+        "specifications" : {
+            "weight" : "702g",
+            "Controller" : "Yes",
+            "CameraResolution" : "18MP",
+            "Flight-Time" : "30 Minute",
+            "Range" : "8km-12km"
+        },
+        "rating" : 3.8,
+        "user" : "1278",
+        "price" : 80,
+        "img": "https://i.ibb.co/thVdvFw/product10.webp"
+    },
+    {
+        "key": "B002RL8IYJ",
+        "title": "FIMI X8 Mini",
+        "tagline" : "A more affordable 4K alternative to the DJI Mini 2",
+        "description": "It's now been succeeded by the DJI Mini 2, but this ultra-compact drone will remain on sale – and that's good news for anyone who needs a slightly more affordable palm-sized drone with impressive video quality. Compared to its newer sibling, you miss out on raw photo capture, Ocusync 2.0 connectivity (for improved range) and some new motors, but the Mavic Mini is otherwise very competitive and still streaks ahead of any other drone in its weight category.",
+        "specifications" : {
+            "weight" : "608g",
+            "Controller" : "Yes",
+            "CameraResolution" : "21MP",
+            "Flight-Time" : "28 Minute",
+            "Range" : "10-15"
+        },
+        "rating" : 3.8,
+        "user" : "1278",
+        "price" : 96,
+        "img": "https://i.ibb.co/1TW3bT8/product11-jpg.webp"
     }
 
 ]

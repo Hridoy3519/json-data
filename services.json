@@ -7,7 +7,7 @@
         "specifications" : {
             "weight" : "595g",
             "Controller" : "Yes",
-            "Camera-Resolution" : "20MP",
+            "CameraResolution" : "20MP",
             "Flight-Time" : "31 Minute",
             "Range" : "8km - 12km"
         },
@@ -24,7 +24,7 @@
         "specifications" : {
             "weight" : "295g",
             "Controller" : "Yes",
-            "Camera-Resolution" : "12MP",
+            "CameraResolution" : "12MP",
             "Flight-Time" : "20 Minute",
             "Range" : "6km - 8km"
         },
@@ -41,7 +41,7 @@
         "specifications" : {
             "weight" : "875g",
             "Controller" : "Yes",
-            "Camera-Resolution" : "20MP",
+            "CameraResolution" : "20MP",
             "Flight-Time" : "46 Minute",
             "Range" : "12km - 15km"
         },
@@ -58,7 +58,7 @@
         "specifications" : {
             "weight" : "570g",
             "Controller" : "Yes",
-            "Camera-Resolution" : "12MP",
+            "CameraResolution" : "12MP",
             "Flight-Time" : "25 Minute",
             "Range" : "10km"
         },
@@ -75,7 +75,7 @@
         "specifications" : {
             "weight" : "907g",
             "Controller" : "Yes",
-            "Camera-Resolution" : "20MP",
+            "CameraResolution" : "20MP",
             "Flight-Time" : "25 Minute",
             "Range" : "8km"
         },
@@ -91,7 +91,7 @@
         "specifications" : {
             "weight" : "905g",
             "Controller" : "Yes",
-            "Camera-Resolution" : "12MP",
+            "CameraResolution" : "12MP",
             "Flight-Time" : "30 Minute",
             "Range" : "8km"
         },

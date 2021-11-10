@@ -11,7 +11,8 @@
             "Flight-Time" : "31 Minute",
             "Range" : "8km - 12km"
         },
-        "Rating" : 5,
+        "rating" : 5,
+        "user" : "1000",
         "price" : 100,
         "img": "https://i.ibb.co/PWDCkXn/product2-jpg.webp"
     },
@@ -28,7 +29,8 @@
             "Flight-Time" : "20 Minute",
             "Range" : "6km - 8km"
         },
-        "Rating" : 4.5,
+        "rating" : 4.5,
+        "user" : "982",
         "price" : 59,
         "img": "https://i.ibb.co/PWDCkXn/product2-jpg.webp"
     },
@@ -45,7 +47,8 @@
             "Flight-Time" : "46 Minute",
             "Range" : "12km - 15km"
         },
-        "Rating" : 4.5,
+        "rating" : 4.5,
+        "user" : "1233",
         "price" : 160,
         "img": "https://i.ibb.co/TTG5Vhg/product3-jpg.webp"
     },
@@ -62,8 +65,9 @@
             "Flight-Time" : "25 Minute",
             "Range" : "10km"
         },
-        "Rating" : 3,
+        "rating" : 3,
         "price" : 80,
+        "user" : "1420",
         "img": "https://i.ibb.co/rfYZ8YB/product4-jpg.webp"
     },
 
@@ -79,7 +83,8 @@
             "Flight-Time" : "25 Minute",
             "Range" : "8km"
         },
-        "Rating" : 4,
+        "rating" : 4,
+        "user" : "548",
         "price" : 96,
         "img": "https://i.ibb.co/9GvqwQd/product5-jpg.webp"
     },
@@ -95,7 +100,8 @@
             "Flight-Time" : "30 Minute",
             "Range" : "8km"
         },
-        "Rating" : 3,
+        "rating" : 3,
+        "user" : "1278",
         "price" : 78,
         "img": "https://i.ibb.co/94MC9LD/product6-jpg.webp"
     }

@@ -1,26 +1,32 @@
 [
     {
         "key": "1",
-        "name": "Dr. Johnson Melbourne",
-        "job": "Prosthodontics Dentist",
-        "img": "https://i.ibb.co/5BcfVpm/doctor-1.jpg"
+        "name": "Hridoy Chowdhury",
+        "job": "Software Engineering",
+        "comment" : "When I was looking to buy a Drone for my visit to Canada, I came across this wonderful website, I bought FIMI X8 Mini and I recieved wonderful service from them. I highly recommend them to others", 
+        "img": "https://i.ibb.co/qmWzMwx/hridoy.webp"
     },
 
     {
         "key": "2",
-        "name": "Dr. Ena Dicrosa",
-        "job": "Aesthetic Dentistry",
-        "img": "https://i.ibb.co/mCh17vc/doctor-2.jpg"
+        "name": "Jhankar Mahbub",
+        "job": "Software Engineer",
+        "comment" : "When I was looking to buy a Drone for my visit to Canada, I came across this wonderful website, I bought FIMI X8 Mini and I recieved wonderful service from them. I highly recommend them to others", 
+        "img": "https://i.ibb.co/g3pQW35/teacher.png"
     },
 
     {
         "key": "3",
-        "name": "Dr. Addison Smith",
-        "job": "Gastroenterologists",
-        "img": "https://i.ibb.co/X3VtxKz/doctor-3.jpg"
+        "name": "Shahadat Chowdhury",
+        "job": "Associate Professor",
+        "comment" : "When I was looking to buy a Drone for my visit to Canada, I came across this wonderful website, I bought FIMI X8 Mini and I recieved wonderful service from them. I highly recommend them to others", 
+        "img": "https://i.ibb.co/XkP7ptL/professor.jpg"
     }
 
 ]
+
+
+
 
 
 

@@ -1,67 +1,97 @@
 [
     {
         "key": "B002RL8IYA",
-        "title": "General Dentistry",
-        "description": "A general dentist is your primary care dental provider. This dentist diagnoses, treats, and manages your overall oral health care needs, including gum care, root canals, fillings, crowns, veneers, bridges, and preventive education.",
-        "Doctor": "Dr. Johnson Melbourne",
-        "Job": "Prosthodontics Dentist",
-        "doctorImg": "https://i.ibb.co/5BcfVpm/doctor-1.jpg",
-        "img": "https://i.ibb.co/YLd3nby/services-1.jpg"
+        "title": "DJI Air 2S",
+        "description": "The superb Air 2S combines the best features of our two previous favorite DJI drones, the Mavic Air 2 and Mavic 2 Pro. You get the compact, folding design of the former, plus the 20MP 1-Inch sensor found in the latter. The combination is a brilliant one, making the Air 2S our top choice for hobbyists and also pros who need a small drone that they can take anywhere.",
+        "specifications" : {
+            "weight" : "595g",
+            "Controller" : "Yes",
+            "Camera-Resolution" : "20MP",
+            "Flight-Time" : "31 Minute",
+            "Range" : "8km - 12km"
+        },
+        "Rating" : 5,
+        "price" : 100,
+        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
     },
 
     {
         "key": "B002RL8IYB",
-        "title": "Cosmetic Dentistry",
-        "Doctor": "Dr. Ena Dicrosa",
-        "Job": "Aesthetic Dentistry",
-        "doctorImg": "https://i.ibb.co/mCh17vc/doctor-2.jpg",
-        "description": "This method of professional oral care focuses on improving the appearance of your mouth, teeth, gums, and overall smile. Common procedures include teeth whitening, veneers, fillings, and implants.",
-        "img": "https://i.ibb.co/xmjQ8hT/services-2.jpg"
+        "title": "DJI Mini 2",
+        "description": "One of our few complaints about the DJI Mavic Mini was that it couldn't shoot 4K video – this excellent successor fixes that, while giving us a few extra treats in the process. The Mini 2 has the same ultra-compact design as before, making it the joint-smallest drone in DJI's line-up, but comes with a new controller that boosts it range (thanks to Ocusync 2.0 connectivity) and delivers a more polished flying experience.",
+        "specifications" : {
+            "weight" : "295g",
+            "Controller" : "Yes",
+            "Camera-Resolution" : "12MP",
+            "Flight-Time" : "20 Minute",
+            "Range" : "6km - 8km"
+        },
+        "Rating" : 4.5,
+        "price" : 59,
+        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
     },
 
     {
         "key": "B002RL8IYC",
-        "title": "Dental Implants",
-        "Doctor": "Dr. Johnson Melbourne",
-        "Job": "Prosthodontics Dentist",
-        "doctorImg": "https://i.ibb.co/5BcfVpm/doctor-1.jpg",
-        "description": "Dental implants are replacement tooth roots. Implants provide a strong foundation for fixed (permanent) or removable replacement teeth that are made to match your natural teeth.",
-        "img": "https://i.ibb.co/28YJn6H/services-3.jpg"
+        "title": "DJI Mavic 3",
+        "description": "Looking for the most powerful compact drone around? The DJI Mavic 3 is it. This aerial powerhouse is fronted by a dual-camera that mixes a large, 20MP Four Thirds sensor with a handy 162mm telephoto lens. And the Mavic 3 fits this into in a backpack-friendly bundle that's somehow lighter than the Mavic 2 Pro model it's based on.",
+        "specifications" : {
+            "weight" : "875g",
+            "Controller" : "Yes",
+            "Camera-Resolution" : "20MP",
+            "Flight-Time" : "46 Minute",
+            "Range" : "12km - 15km"
+        },
+        "Rating" : 4.5,
+        "price" : 160,
+        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
     },
 
     {
         "key": "B002RL8IYD",
-        "title": "Orthodontics",
-        "Doctor": "Dr. Addison Smith",
-        "Job": "Gastroenterologists",
-        "doctorImg": "https://i.ibb.co/X3VtxKz/doctor-3.jpg",
-        "description": "Orthodontics is a branch of dentistry that treats malocclusion, a condition in which the teeth are not correctly positioned when the mouth is closed. This results in an improper bite. An orthodontist specializes in making the teeth straight.",
-        "img": "https://i.ibb.co/2cNrkhw/services-4.jpg"
+        "title": "DJI Mavic Air 2",
+        "description": "Previously our number one drone, the Mavic Air 2 has been nudged out of the limelight by the arrival of the DJI Air 2S (see number one). But you shouldn’t necessarily discount it as an option – it’s more affordable than the Air 2S and may just suit you better, if you don’t need the new model’s larger 1-Inch sensor.",
+        "specifications" : {
+            "weight" : "570g",
+            "Controller" : "Yes",
+            "Camera-Resolution" : "12MP",
+            "Flight-Time" : "25 Minute",
+            "Range" : "10km"
+        },
+        "Rating" : 3,
+        "price" : 80,
+        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
     },
 
     {
         "key": "B002RL8IYE",
-        "title": "Teeth Whitening",
-        "Doctor": "Dr. Ena Dicrosa",
-        "Job": "Aesthetic Dentistry",
-        "doctorImg": "https://i.ibb.co/mCh17vc/doctor-2.jpg",
-        "description": "Everyone notices a bright, white, glowing smile. And everyone notices how confident you feel when you have that beautiful smile. That’s why we utilize long-lasting Teeth Whitening procedure — because we want you to glow with pride and confidence.",
-        "img": "https://i.ibb.co/Yphxm0X/services-5.jpg"
+        "title": "DJI Mavic 2 Pro",
+        "description": "The classic Mavic 2 Pro, which landed in August 2018, finds itself in a difficult spot – most of its features can be found in the smaller DJI Air 2S, while its design has been pinched by the significantly more powerful DJI Mavic 3. So should it be completely discounted? Not necessarily. Unlike the Air 2S, it offers variable aperture for changing your exposure mid-flight. And it's significantly more affordable than the Mavic 3.",
+        "specifications" : {
+            "weight" : "907g",
+            "Controller" : "Yes",
+            "Camera-Resolution" : "20MP",
+            "Flight-Time" : "25 Minute",
+            "Range" : "8km"
+        },
+        "Rating" : 4,
+        "price" : 96,
+        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
     },
-
     {
         "key": "B002RL8IYF",
-        "title": "Teeth Cleaning",
-        "Doctor": "Dr. Johnson Melbourne",
-        "Job": "Prosthodontics Dentist",
-        "doctorImg": "https://i.ibb.co/5BcfVpm/doctor-1.jpg",
-        "description": "Many people dread teeth cleanings. Between the prodding, strange noises, and occasional jaw discomfort, it’s easy to understand their apprehension. But for most, a teeth cleaning is simple and painless.",
-        "img": "https://i.ibb.co/HG0XYc4/services-6.jpg"
+        "title": "DJI Mavic 2 Zoom",
+        "description": "Like the Mavic 2 Pro, the Mavic 2 Zoom landed back in August 2018, which means it's largely been succeeded by the newer Air 2S and Mavic 3 (see above). But despite the latter's inclusion of a 162mm telephoto lens, the Zoom still offers a unique 24-48mm optical zoom lens. If you're looking to capture close-up shots of subjects like people, while still maintaining the safe and legal distance of 50m, then it's still worth considering due to the quality of that optical zoom.",
+        "specifications" : {
+            "weight" : "905g",
+            "Controller" : "Yes",
+            "Camera-Resolution" : "12MP",
+            "Flight-Time" : "30 Minute",
+            "Range" : "8km"
+        },
+        "Rating" : 3,
+        "price" : 78,
+        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
     }
 
 ]
-
-
-
-
-

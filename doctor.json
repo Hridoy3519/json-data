@@ -2,7 +2,8 @@
     {
         "key": "1",
         "name": "Hridoy Chowdhury",
-        "job": "Software Engineering",
+        "job": "Software Engineer",
+        "rating" : 5,
         "comment" : "When I was looking to buy a Drone for my visit to Canada, I came across this wonderful website, I bought FIMI X8 Mini and I recieved wonderful service from them. I highly recommend them to others", 
         "img": "https://i.ibb.co/qmWzMwx/hridoy.webp"
     },
@@ -11,6 +12,7 @@
         "key": "2",
         "name": "Jhankar Mahbub",
         "job": "Software Engineer",
+        "rating" : 4.5,
         "comment" : "When I was looking to buy a Drone for my visit to Canada, I came across this wonderful website, I bought FIMI X8 Mini and I recieved wonderful service from them. I highly recommend them to others", 
         "img": "https://i.ibb.co/g3pQW35/teacher.png"
     },
@@ -19,6 +21,7 @@
         "key": "3",
         "name": "Shahadat Chowdhury",
         "job": "Associate Professor",
+        "rating" : 4,
         "comment" : "When I was looking to buy a Drone for my visit to Canada, I came across this wonderful website, I bought FIMI X8 Mini and I recieved wonderful service from them. I highly recommend them to others", 
         "img": "https://i.ibb.co/XkP7ptL/professor.jpg"
     }

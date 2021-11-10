@@ -12,7 +12,7 @@
         },
         "Rating" : 5,
         "price" : 100,
-        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
+        "img": "https://i.ibb.co/PWDCkXn/product2-jpg.webp"
     },
 
     {
@@ -28,7 +28,7 @@
         },
         "Rating" : 4.5,
         "price" : 59,
-        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
+        "img": "https://i.ibb.co/PWDCkXn/product2-jpg.webp"
     },
 
     {
@@ -44,7 +44,7 @@
         },
         "Rating" : 4.5,
         "price" : 160,
-        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
+        "img": "https://i.ibb.co/TTG5Vhg/product3-jpg.webp"
     },
 
     {
@@ -60,7 +60,7 @@
         },
         "Rating" : 3,
         "price" : 80,
-        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
+        "img": "https://i.ibb.co/rfYZ8YB/product4-jpg.webp"
     },
 
     {
@@ -76,7 +76,7 @@
         },
         "Rating" : 4,
         "price" : 96,
-        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
+        "img": "https://i.ibb.co/9GvqwQd/product5-jpg.webp"
     },
     {
         "key": "B002RL8IYF",
@@ -91,7 +91,7 @@
         },
         "Rating" : 3,
         "price" : 78,
-        "img": "https://i.ibb.co/Kq3VmFB/mexico.jpg"
+        "img": "https://i.ibb.co/94MC9LD/product6-jpg.webp"
     }
 
 ]

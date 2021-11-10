@@ -2,6 +2,7 @@
     {
         "key": "B002RL8IYA",
         "title": "DJI Air 2S",
+        "tagline" : "The best drone for most people",
         "description": "The superb Air 2S combines the best features of our two previous favorite DJI drones, the Mavic Air 2 and Mavic 2 Pro. You get the compact, folding design of the former, plus the 20MP 1-Inch sensor found in the latter. The combination is a brilliant one, making the Air 2S our top choice for hobbyists and also pros who need a small drone that they can take anywhere.",
         "specifications" : {
             "weight" : "595g",
@@ -18,6 +19,7 @@
     {
         "key": "B002RL8IYB",
         "title": "DJI Mini 2",
+        "tagline" : "The best drone for beginners, now with 4K powers",
         "description": "One of our few complaints about the DJI Mavic Mini was that it couldn't shoot 4K video – this excellent successor fixes that, while giving us a few extra treats in the process. The Mini 2 has the same ultra-compact design as before, making it the joint-smallest drone in DJI's line-up, but comes with a new controller that boosts it range (thanks to Ocusync 2.0 connectivity) and delivers a more polished flying experience.",
         "specifications" : {
             "weight" : "295g",
@@ -34,6 +36,7 @@
     {
         "key": "B002RL8IYC",
         "title": "DJI Mavic 3",
+        "tagline" : "The world's most powerful compact drone (with a big price tag)",
         "description": "Looking for the most powerful compact drone around? The DJI Mavic 3 is it. This aerial powerhouse is fronted by a dual-camera that mixes a large, 20MP Four Thirds sensor with a handy 162mm telephoto lens. And the Mavic 3 fits this into in a backpack-friendly bundle that's somehow lighter than the Mavic 2 Pro model it's based on.",
         "specifications" : {
             "weight" : "875g",
@@ -50,6 +53,7 @@
     {
         "key": "B002RL8IYD",
         "title": "DJI Mavic Air 2",
+        "tagline" : "Still offers great value for hobbyist fliers",
         "description": "Previously our number one drone, the Mavic Air 2 has been nudged out of the limelight by the arrival of the DJI Air 2S (see number one). But you shouldn’t necessarily discount it as an option – it’s more affordable than the Air 2S and may just suit you better, if you don’t need the new model’s larger 1-Inch sensor.",
         "specifications" : {
             "weight" : "570g",
@@ -66,6 +70,7 @@
     {
         "key": "B002RL8IYE",
         "title": "DJI Mavic 2 Pro",
+        "tagline" : "Nudged out of the spotlight by the Mavic 3, but look out for discounts",
         "description": "The classic Mavic 2 Pro, which landed in August 2018, finds itself in a difficult spot – most of its features can be found in the smaller DJI Air 2S, while its design has been pinched by the significantly more powerful DJI Mavic 3. So should it be completely discounted? Not necessarily. Unlike the Air 2S, it offers variable aperture for changing your exposure mid-flight. And it's significantly more affordable than the Mavic 3.",
         "specifications" : {
             "weight" : "907g",
@@ -81,6 +86,7 @@
     {
         "key": "B002RL8IYF",
         "title": "DJI Mavic 2 Zoom",
+        "tagline" : "A lightweight flyer whose optical zoom is still pretty unique",
         "description": "Like the Mavic 2 Pro, the Mavic 2 Zoom landed back in August 2018, which means it's largely been succeeded by the newer Air 2S and Mavic 3 (see above). But despite the latter's inclusion of a 162mm telephoto lens, the Zoom still offers a unique 24-48mm optical zoom lens. If you're looking to capture close-up shots of subjects like people, while still maintaining the safe and legal distance of 50m, then it's still worth considering due to the quality of that optical zoom.",
         "specifications" : {
             "weight" : "905g",

@@ -1,0 +1,86 @@
+[
+    {
+        "key": "1",
+        "name": "2018 Nissan Versa, S",
+        "category": "Car",
+        "place" : "Sylhet",
+        "starting-bid": 1600000,
+        "img": "https://i.ibb.co/fx7y8cb/auction-1.jpg"
+    },
+
+    {
+        "key": "2",
+        "name": "Gold Ring with Clear Stones",
+        "category": "Jewelry",
+        "place" : "Dhaka",
+        "starting-bid": 22000,
+        "img": "https://i.ibb.co/7vdtGdb/auction-2.jpg"
+    },
+
+    {
+        "key": "3",
+        "name": "Vintage Rolex",
+        "category": "Watch",
+        "place" : "Chittagong",
+        "starting-bid": 65000,
+        "img": "https://i.ibb.co/LhSr8d3/auction-3.jpg"
+    },
+
+    {
+        "key": "4",
+        "name": "Apple Macbook Pro",
+        "category": "Laptop",
+        "place" : "Chittagong",
+        "starting-bid": 65000,
+        "img": "https://i.ibb.co/m5fhP4h/auction-4.jpg"
+    },
+    {
+        "key": "5",
+        "name": "2018 Nissan Versa, S",
+        "category": "Car",
+        "place" : "Sylhet",
+        "starting-bid": 1600000,
+        "img": "https://i.ibb.co/fx7y8cb/auction-1.jpg"
+    },
+
+    {
+        "key": "6",
+        "name": "Gold Ring with Clear Stones",
+        "category": "Jewelry",
+        "place" : "Dhaka",
+        "starting-bid": 22000,
+        "img": "https://i.ibb.co/7vdtGdb/auction-2.jpg"
+    },
+
+    {
+        "key": "7",
+        "name": "Vintage Rolex",
+        "category": "Watch",
+        "place" : "Chittagong",
+        "starting-bid": 65000,
+        "img": "https://i.ibb.co/LhSr8d3/auction-3.jpg"
+    },
+
+    {
+        "key": "4",
+        "name": "Apple Macbook Pro",
+        "category": "Laptop",
+        "place" : "Chittagong",
+        "starting-bid": 65000,
+        "img": "https://i.ibb.co/m5fhP4h/auction-4.jpg"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

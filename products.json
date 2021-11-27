@@ -6,6 +6,8 @@
         "place" : "Sylhet",
         "startingBid": 1600000,
         "currentBid": 1800000,
+        "endDate" : "15/27/2021",
+        "endTime" : "19:55:41",
         "img": "https://i.ibb.co/fx7y8cb/auction-1.jpg"
     },
 
@@ -16,6 +18,8 @@
         "place" : "Dhaka",
         "startingBid": 22000,
         "currentBid": 32000,
+        "endDate" : "15/27/2021",
+        "endTime" : "19:55:41",
         "img": "https://i.ibb.co/7vdtGdb/auction-2.jpg"
     },
 
@@ -26,6 +30,8 @@
         "place" : "Chittagong",
         "startingBid": 65000,
         "currentBid": 65000,
+        "endDate" : "15/27/2021",
+        "endTime" : "19:55:41",
         "img": "https://i.ibb.co/LhSr8d3/auction-3.jpg"
     },
 
@@ -36,6 +42,8 @@
         "place" : "Chittagong",
         "startingBid": 65000,
         "currentBid": 65000,
+        "endDate" : "15/27/2021",
+        "endTime" : "19:55:41",
         "img": "https://i.ibb.co/m5fhP4h/auction-4.jpg"
     },
     {
@@ -45,6 +53,8 @@
         "place" : "Sylhet",
         "startingBid": 1600000,
         "currentBid": 65000000,
+        "endDate" : "15/27/2021",
+        "endTime" : "19:55:41",
         "img": "https://i.ibb.co/fx7y8cb/auction-1.jpg"
     },
 
@@ -55,6 +65,8 @@
         "place" : "Dhaka",
         "startingBid": 22000,
         "currentBid": 65000,
+        "endDate" : "15/27/2021",
+        "endTime" : "19:55:41",
         "img": "https://i.ibb.co/7vdtGdb/auction-2.jpg"
     },
 
@@ -65,6 +77,8 @@
         "place" : "Chittagong",
         "startingBid": 65000,
         "currentBid": 65000,
+        "endDate" : "15/27/2021",
+        "endTime" : "19:55:41",
         "img": "https://i.ibb.co/LhSr8d3/auction-3.jpg"
     },
 
@@ -75,6 +89,8 @@
         "place" : "Chittagong",
         "startingBid": 65000,
         "currentBid": 65000,
+        "endDate" : "15/27/2021",
+        "endTime" : "19:55:41",
         "img": "https://i.ibb.co/m5fhP4h/auction-4.jpg"
     }
 ]

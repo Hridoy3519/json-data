@@ -4,8 +4,8 @@
         "name": "2018 Nissan Versa, S",
         "category": "Car",
         "place" : "Sylhet",
-        "starting-bid": 1600000,
-        "current-bid": 1800000,
+        "startingBid": 1600000,
+        "currentBid": 1800000,
         "img": "https://i.ibb.co/fx7y8cb/auction-1.jpg"
     },
 
@@ -14,8 +14,8 @@
         "name": "Gold Ring with Clear Stones",
         "category": "Jewelry",
         "place" : "Dhaka",
-        "starting-bid": 22000,
-        "current-bid": 32000,
+        "startingBid": 22000,
+        "currentBid": 32000,
         "img": "https://i.ibb.co/7vdtGdb/auction-2.jpg"
     },
 
@@ -24,8 +24,8 @@
         "name": "Vintage Rolex",
         "category": "Watch",
         "place" : "Chittagong",
-        "starting-bid": 65000,
-        "current-bid": 65000,
+        "startingBid": 65000,
+        "currentBid": 65000,
         "img": "https://i.ibb.co/LhSr8d3/auction-3.jpg"
     },
 
@@ -34,8 +34,8 @@
         "name": "Apple Macbook Pro",
         "category": "Laptop",
         "place" : "Chittagong",
-        "starting-bid": 65000,
-        "current-bid": 65000,
+        "startingBid": 65000,
+        "currentBid": 65000,
         "img": "https://i.ibb.co/m5fhP4h/auction-4.jpg"
     },
     {
@@ -43,8 +43,8 @@
         "name": "2018 Nissan Versa, S",
         "category": "Car",
         "place" : "Sylhet",
-        "starting-bid": 1600000,
-        "current-bid": 65000000,
+        "startingBid": 1600000,
+        "currentBid": 65000000,
         "img": "https://i.ibb.co/fx7y8cb/auction-1.jpg"
     },
 
@@ -53,8 +53,8 @@
         "name": "Gold Ring with Clear Stones",
         "category": "Jewelry",
         "place" : "Dhaka",
-        "starting-bid": 22000,
-        "current-bid": 65000,
+        "startingBid": 22000,
+        "currentBid": 65000,
         "img": "https://i.ibb.co/7vdtGdb/auction-2.jpg"
     },
 
@@ -63,8 +63,8 @@
         "name": "Vintage Rolex",
         "category": "Watch",
         "place" : "Chittagong",
-        "starting-bid": 65000,
-        "current-bid": 65000,
+        "startingBid": 65000,
+        "currentBid": 65000,
         "img": "https://i.ibb.co/LhSr8d3/auction-3.jpg"
     },
 
@@ -73,8 +73,8 @@
         "name": "Apple Macbook Pro",
         "category": "Laptop",
         "place" : "Chittagong",
-        "starting-bid": 65000,
-        "current-bid": 65000,
+        "startingBid": 65000,
+        "currentBid": 65000,
         "img": "https://i.ibb.co/m5fhP4h/auction-4.jpg"
     }
 ]
